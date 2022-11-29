@@ -8,3 +8,6 @@ Lip Sync using Spectrogram analysis linked with Diffusion models to generate rea
 
 * a. Dated: 28th Nov: Upscaled video without audio added. Stable diffusion upscales to 720p.
 * b. Dated: 28th Nov: https://youtu.be/DKaYazpKhJ0 , Upscaled video to 1080p. Diffusion activated
+* c. Check **DFS_AK_covid.mp4** for results on quick based auido. Poor results. Model looks good for single person ads. 
+* d. More examples enroute testing. **Positive about going beta access before Jan 1st, 2022 for ads and commericials** 
+* e. Currently researching possible levels on upscaling incl. diffusion models, for super-resolution on limited resources.
