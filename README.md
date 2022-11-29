@@ -6,5 +6,5 @@ Lip Sync using Spectrogram analysis linked with Diffusion models to generate rea
 3. cache withdrawal could potentially generate better results.
 4. Generate vids of 480p resolution, 20 seconds clips.
 
-a. Dated: 28th Nov: Upscaled video without audio added. Stable diffusion upscales to 720p.
-b. Dated: 28th Nov: https://youtu.be/DKaYazpKhJ0 , Upscaled video to 1080p. Diffusion activated
+*a. Dated: 28th Nov: Upscaled video without audio added. Stable diffusion upscales to 720p.
+*b. Dated: 28th Nov: https://youtu.be/DKaYazpKhJ0 , Upscaled video to 1080p. Diffusion activated
