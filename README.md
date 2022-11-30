@@ -14,3 +14,4 @@ Lip Sync using Spectrogram analysis linked with Diffusion models to generate rea
 * f. **Dated 29th Nov** Check DFS_BB2_hindi.mp4 for different AoV lip sync. Upscaling the video soon!
 * g. **Dated 29th Nov** HD version of DF_BB2_hindi is available at **https://youtu.be/b51Fr-SBMJM** . Experimented using Diffusion models to generate mouth pieces, note the indifferent output of the people in the background. This happens due to the dataset bias that Diffusion model has. But, progress seems good!
 * h. Next stop would be impose a mask layer and apply diffusion models. but still HD level lipsync is Goooood!!!!!
+* i. Tried mini-Diffusion model for front facing lipsync. Results looks decent. Click https://youtu.be/Io3wQY0GSfc for result.
