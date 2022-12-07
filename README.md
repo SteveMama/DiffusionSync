@@ -22,3 +22,4 @@ Lip Sync using Spectrogram analysis linked with Diffusion models to generate rea
 * i. Tried mini-Diffusion model for front facing lipsync. Results looks decent. Click https://youtu.be/Io3wQY0GSfc for result.
 * j. **RRR Hindi Version with lip sync** available at https://youtu.be/mRsKQvTiCPQ . 
 * k. Looking forward to fine-tuning Diffusion model and ESRGAN on human faces for more realistic render. Bias comes in place due to the model that was trained on art images!
+* l. Diffusion models' test on vibrant colors and lowlight backgrounds. **https://youtu.be/oUlF1rk4DVw** 
