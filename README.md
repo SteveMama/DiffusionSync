@@ -6,9 +6,9 @@ Lip Sync using Spectrogram analysis linked with Diffusion models to generate rea
 3. cache withdrawal could potentially generate better results.
 4. Generate vids of 480p resolution, 20 seconds clips.
 
-**Note: (Dt.5th dec,22) The Bahubali 2 court scene lip sync is booming with >1000 views on Youtube!**
-
 **Note: (Dt.7th dec,22) The Bahubali 2 court scene lip sync is booming with >2000 views on Youtube!**
+**Note: (Dt.10th dec,22) The Bahubali 2 court scene lip sync is booming with >4000 views on Youtube!**
+
 
 
 * a. Dated: 28th Nov: Upscaled video without audio added. Stable diffusion upscales to 720p.
